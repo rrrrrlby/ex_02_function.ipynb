@@ -1,3 +1,15 @@
+print('Hello python!') #打印字符串
+​
+Hello python!
+print("Hello world!")
+print("_"*50)
+print("人生很简单，做了决定就不要后悔。")
+print("Life is simpleYou make choices and you don't look back.")
+​
+Hello world!
+_________________________________________________
+人生很简单，做了决定就不要后悔。
+Life is simpleYou make choices and you don't look back.
 print("加：",1+0) #打印简单的运算
 print("减：",1-1)
 print("乘：",1*3)
